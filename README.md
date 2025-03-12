@@ -2,4 +2,4 @@
  Projects for my Resume
 
 # Projects:
-- [Chord Detection](ChordDetection/README.md)
+- [Chord Detection](ChordDetection/)
