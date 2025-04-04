@@ -2,6 +2,8 @@
 
 [Results/Code](ChordDetection.ipynb)
 
+- Demo: []()
+
 A project group project I contributed to for Audio Content Analysis (MUSI 6201) at Georgia Tech. Our goal was to be able to detect musical chords being played on a piano through Music Information Retreival (MIR) techniques, such as feature extraction.
 
 Credits: Andrew Ionascu, Anish Nair, Isaac Hong, Evan Murray

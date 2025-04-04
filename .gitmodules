@@ -1,0 +1,12 @@
+[submodule "ESP32WiimoteController/networkedmusic"]
+	path = ESP32WiimoteController/networkedmusic
+	url = https://github.com/combover01/networkedmusic
+[submodule "ESP32PitchController/invensense-imu"]
+	path = ESP32PitchController/invensense-imu
+	url = https://github.com/bolderflight/invensense-imu
+[submodule "ESP32PitchController/arduino-esp32"]
+	path = ESP32PitchController/arduino-esp32
+	url = https://github.com/espressif/arduino-esp32/
+[submodule "ESP32WiimoteController/ESP32Wiimote"]
+	path = ESP32WiimoteController/ESP32Wiimote
+	url = https://github.com/hrgraf/ESP32Wiimote
