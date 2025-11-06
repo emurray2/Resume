@@ -7,3 +7,4 @@
 - [ESP32 Wiimote Controller](ESP32WiimoteController/)
 - [Social Distancing Music](SocialDistancingMusic/)
 - [Image Segmentation](ImageSegmentation/)
+- [Denoising](Denoising/)
